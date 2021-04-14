@@ -5,7 +5,7 @@
 const Ming = {
   code: ['Javascript', 'HTML', 'CSS', 'Python', 'Ruby'],
   tools: ['React', 'Node', 'Exprss', 'Styled-Components', 'Jest', 'Docker', 'AWS', 'Nginx'],
-  dataBase: ['MySQL', 'PostgreSQL', 'MongoDB']
+  dataBase: ['MySQL', 'PostgreSQL', 'MongoDB'],
   workingOnLearning: ['TypeScript', 'React-Native', 'Swift']
 }
 ```

@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi I am Ming 👋
 
-<!--
-**mingwencode/mingwencode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const Ming = {
+  code: ['Javascript', 'HTML', 'CSS', 'Python', 'Ruby'],
+  tools: ['React', 'Node', 'Exprss', 'Styled-Components', 'Jest', 'Docker', 'AWS', 'Nginx'],
+  dataBase: ['MySQL', 'PostgreSQL', 'MongoDB']
+  workingOnLearning: ['TypeScript', 'React-Native', 'Swift']
+}
+```
+---
